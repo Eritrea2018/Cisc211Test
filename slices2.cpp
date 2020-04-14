@@ -1,10 +1,6 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-//using std::cout;
-//using std::cin;
-#define DEFAULT 0;
-
 
 int main()
 {
@@ -19,5 +15,4 @@ int main()
     //cout <<children1;
     cout <<"Group children one got " << children1 << " bundle a piece." << endl;
 
-   
 }
